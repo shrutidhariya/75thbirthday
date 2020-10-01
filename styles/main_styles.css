@@ -472,6 +472,11 @@ section
 	-o-transform: translateY(2px);
 	transform: translateY(2px);
 }
+.no-classy .no-used{
+	color: black;
+	height: 10px;
+	width: 25px;
+}
 
 /*********************************
 3.3 Main Nav
